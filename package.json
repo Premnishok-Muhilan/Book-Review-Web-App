@@ -1,0 +1,24 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back end for book review app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Premnishok-Muhilan/Book-Review-Web-App-Backend.git"
+  },
+  "keywords": [
+    "Reviews",
+    "Books",
+    "Ratings"
+  ],
+  "author": "Premnishok Muhilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Premnishok-Muhilan/Book-Review-Web-App-Backend/issues"
+  },
+  "homepage": "https://github.com/Premnishok-Muhilan/Book-Review-Web-App-Backend#readme"
+}
